@@ -2,7 +2,7 @@
 <h3>Deney-1-led yakma</h3>
 <img src="Deney-1-led yakma.png" width="300" >
 <h3>Deney-2-Buttonla-Led_Yakma</h3>
-<img src="Deney-2-Buttonla-Led_Yakma" width="250" >
+<img src="Deney-2-Buttonla-Led_Yakma.png" width="250" >
 <h3>Deney-3-RGB_led_kontrolü</h3>
 <img src="Deney-3-RGB_led_kontrolü.png" width="250" >
 <h3>Deney-4_butonla-RGBLED</h3>
