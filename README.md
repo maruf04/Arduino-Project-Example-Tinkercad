@@ -11,5 +11,5 @@
 <img src="Deney-5-Sıcaklık_Ölçümü.png" width="250" >
 <h3>Deney-6-Mesafe_Sensörü</h3>
 <img src="Deney-6-Mesafe_Sensörü.png" width="250" >
-<h3>Deney-7-Sesli_İkaz_Uygulaması.png</h3>
+<h3>Deney-7-Sesli_İkaz_Uygulaması</h3>
 <img src="Deney-7-Sesli_İkaz_Uygulaması.png" width="250" >
