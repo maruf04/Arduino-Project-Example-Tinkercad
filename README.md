@@ -1,7 +1,7 @@
 # Arduino-Project-Example-Tinkercad
 
 <h3>Sosyal_Mesafe_Uyarı_Sistemi</h3>
-<img src="Arduino-Project-Example-Tinkercad/Sosyal_Mesafe_Uyarı_Sistemi/Sosyal_Mesafe_Uyarı_Sistemi.png" width="300" >
+<img src="Sosyal_Mesafe_Uyarı_Sistemi//Sosyal_Mesafe_Uyarı_Sistemi.png" width="300" >
 <h3>Deney-7-Sesli_İkaz_Uygulaması</h3>
 <img src="Deney-7-Sesli_İkaz_Uygulaması.png" width="300" >
 <h3>Deney-6-Mesafe_Sensörü</h3>
